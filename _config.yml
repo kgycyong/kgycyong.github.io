@@ -3,7 +3,7 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Website of my projects 
   <br><br>
-  <a href="https://www.linkedin.com/in/ycyong/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ycyong/">LinkedIn</a> 
 
 url: https://github.com/kgycyong/kgycyong.github.io/
 remote_theme: pages-themes/minimal@v0.2.0
